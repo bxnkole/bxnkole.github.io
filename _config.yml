@@ -13,7 +13,7 @@ baseurl: /
 domain_name: 'http://bxnkole.github.io'
 google_analytics: 'UA-98298067-1'
 disqus: true
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'http-bxnkole-github-io'
 
 # Details for the RSS feed generator
 url:            'http://bxnkole.github.io'
@@ -21,6 +21,8 @@ author:         'Bankole Salako'
 authorTwitter:  'bxnkole'
 
 permalink:       /:year/:title/
+
+avatar:          'my-avatar.png'
 
 defaults:
     -
