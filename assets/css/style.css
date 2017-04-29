@@ -48,7 +48,7 @@ table {
 
 /* Icons */
 @font-face {
-    font-family: 'icons';
+    font-family: 'font-awesome';
     src: url('../fonts/fontawesome-webfont.eot');
     src: url('../fonts/fontawesome-webfont.eot#iefix') format('embedded-opentype'),
     url('../fonts/fontawesome-webfont.woff') format('woff'),
@@ -59,7 +59,7 @@ table {
 }
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
-    font-family: "icons";
+    font-family: "font-awesome";
     font-style: normal;
     font-weight: normal;
     speak: none;
