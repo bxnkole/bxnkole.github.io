@@ -1,0 +1,43 @@
+name: Bankole Salako
+description: Software and every other good stuff
+meta_description: "Bankole Salako; software and every other good stuff"
+
+aboutPage: true
+
+markdown: kramdown
+highlighter: rouge
+
+gems: [jekyll-paginate]
+paginate: 20
+baseurl: /
+domain_name: 'http://bxnkole.github.io'
+google_analytics: 'UA-98298067-1'
+disqus: true
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://bxnkole.github.io'
+author:         'Bankole Salako'
+authorTwitter:  'bxnkole'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
