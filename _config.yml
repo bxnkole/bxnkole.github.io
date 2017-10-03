@@ -7,7 +7,6 @@ aboutPage: true
 markdown: kramdown
 highlighter: rouge
 
-gems: [jekyll-paginate]
 paginate: 20
 baseurl: /
 domain_name: 'http://bxnkole.github.io'
@@ -16,9 +15,10 @@ disqus: true
 disqus_shortname: 'http-bxnkole-github-io'
 
 # Details for the RSS feed generator
-url:            'http://bxnkole.github.io'
+url:            'https://bxnkole.github.io'
 author:         'Bankole Salako'
 authorTwitter:  'bxnkole'
+logo:           '/assets/images/my-avatar.png'
 
 permalink:       /:year/:title/
 
@@ -43,3 +43,18 @@ defaults:
             type: drafts
         values:
             layout: post
+
+gems:
+    - jekyll-seo-tag
+    - jekyll-paginate
+
+twitter:
+    username: bxnkole
+
+social:
+  name: Bankole Salako
+  links:
+    - https://twitter.com/bxnkole
+    - https://www.facebook.com/bankole.salako
+    - https://www.linkedin.com/in/bankolesalako
+    - https://github.com/bxnkole
