@@ -1,4 +1,4 @@
-Github Pages for Bankole Salako (www.bxnkole.github.io) using Cactus Theme
+Github Pages for Bankole Salako (https://bxnkole.github.io) using Cactus Theme
 
 ## Copyright & License
 
