@@ -8,7 +8,7 @@ markdown: kramdown
 highlighter: rouge
 
 paginate: 20
-baseurl: /
+#baseurl: /
 domain_name: 'http://bxnkole.github.io'
 google_analytics: 'UA-98298067-1'
 disqus: true
