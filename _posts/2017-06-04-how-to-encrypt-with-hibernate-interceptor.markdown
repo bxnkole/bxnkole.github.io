@@ -1,7 +1,7 @@
 ---
 title:  "Encrypting database contents with Hibernate Interceptor"
 description: How to encrypt database contents with Hibernate Interceptor
-category: java
+category: java, hibernate
 ---
 
 There comes a time in the process of engineering a piece of software where you want more control of database interactions, just like a hook. 
