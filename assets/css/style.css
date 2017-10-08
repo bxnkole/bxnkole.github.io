@@ -133,7 +133,7 @@ h2 {
 }
 
 .profile #wrapper {
-    padding: 100px 40px 0px;
+    padding: 30px 40px 0px;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -205,7 +205,7 @@ nav.main-nav a.cta {
 #wrapper {
     max-width: 800px;
     margin: 0 auto;
-    padding: 60px 40px 100px 40px;
+    padding: 0px 40px 100px 40px;
 }
 
 #wrapper.home {
@@ -464,10 +464,6 @@ img {
 /*=========================================
 Post List
 =========================================== */
-#post-list, #archive-list {
-    margin-top: 100px;
-}
-
 #post-list li, #archive-list li {
     list-style-type: none;
 }
